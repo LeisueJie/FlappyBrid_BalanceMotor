@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\script\BalanceMpto\Motoren.cs">
+    <Files>
+      <File FileName="Assets\script\BalanceMpto\nb.cs" Line="20" Column="33" />
+      <File FileName="Assets\script\BalanceMpto\Deadline.cs" Line="23" Column="2" />
+      <File FileName="Assets\script\BalanceMpto\Motoren.cs" Line="20" Column="43" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
